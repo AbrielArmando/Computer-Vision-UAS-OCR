@@ -9,8 +9,8 @@
 2. **LM Studio** yang menjalankan server lokal dengan model multimodal (misalnya *gemma-3-4b* atau *llava*)[cite: 1].
 3. Install dependencies yang dibutuhkan:
    ```bash
-   🚀 Cara Menjalankan Program
    pip install -r requirements.txt
+🚀 Cara Menjalankan Program
 Pastikan aplikasi LM Studio sudah aktif dan local server-nya menyala di port 1234.
 
 Pastikan struktur folder dataset sudah sesuai.
